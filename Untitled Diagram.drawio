@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="2hmBIuzUteLbM7XQ7HF7">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Canada" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="782" y="8" width="112" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Toronto" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="153" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Montreal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="172" y="153" width="123" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Vancouver" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="153" width="133" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Calgary" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="529" y="153" width="113" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Winnipeg" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="692" y="153" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Regina" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="868" y="153" width="107" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Halifax" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="153" width="111" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Fredericton" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="153" width="143" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Charlottetown" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1379" y="153" width="163" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="St. John&#39;s" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1592" y="153" width="127" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Ontario" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="65" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Quebec" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="British Columbia" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="412" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Alberta" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Manitoba" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Saskatchewan" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="921" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Nova Scotia" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="New Brunswick" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1257" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="Prince Edward Island" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="Newfoundland and Labrador" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1656" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
